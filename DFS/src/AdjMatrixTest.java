@@ -33,7 +33,7 @@ public class AdjMatrixTest {
  	큐 생성 
  	시작정점 v를 큐에 삽입 
  	정점 v를 방문한 것으로 표시 
- 	while(큐가 비어 있지 않은 경우) {
+ 	while(큐가 비어 있지 않은 경우) { 
  	 		t <- 큐의 첫 번쨰 원소 반환  
  	 		for ( t와 연결된 모든 간선에 대해 ) {
  	 				u <- t의 인접 정점
